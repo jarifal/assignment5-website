@@ -1,0 +1,24 @@
+.busBtn {
+    border: 1px solid #1DD100;
+}
+.offerBtn {
+    border: 1px solid #1DD100;
+}
+.border-dashed {
+    border: 1px solid #03071233;
+}
+.vr {
+    border-left: 2px dashed #1DD100;
+}
+.hr {
+    border: 1px solid #03071233;
+}
+.link {
+    text-decoration: underline;
+}
+.selected {
+    background-color: green;
+}
+#success-modal {
+    display: none;
+}
